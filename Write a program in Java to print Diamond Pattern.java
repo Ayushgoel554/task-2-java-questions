@@ -26,7 +26,7 @@ public class Main
 	        }
 	        System.out.println();
 	    }
-	       for(int i=5;i>=1;i--)
+	       for(int i=n;i>=1;i--)
 	    {   
 	        for(int j=n;j>=i;j--)
 	        {
